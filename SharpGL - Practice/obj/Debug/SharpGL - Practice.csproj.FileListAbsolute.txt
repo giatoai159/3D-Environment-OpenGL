@@ -1,0 +1,58 @@
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\bin\Debug\SharpGL - Practice.exe
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\bin\Debug\SharpGL - Practice.pdb
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\bin\Debug\SharpGL.dll
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\bin\Debug\SharpGL.SceneGraph.dll
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\bin\Debug\SharpGL.WinForms.dll
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\bin\Debug\SharpGL.pdb
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\bin\Debug\SharpGL.xml
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\bin\Debug\SharpGL.SceneGraph.pdb
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\bin\Debug\SharpGL.SceneGraph.xml
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\bin\Debug\SharpGL.WinForms.pdb
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\bin\Debug\SharpGL.WinForms.xml
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\obj\Debug\SharpGL - Practice.csprojAssemblyReference.cache
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\obj\Debug\SharpGL___Practice.Form1.resources
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\obj\Debug\SharpGL___Practice.Properties.Resources.resources
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\obj\Debug\SharpGL - Practice.csproj.GenerateResource.cache
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\obj\Debug\SharpGL - Practice.csproj.CoreCompileInputs.cache
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\obj\Debug\SharpGL - Practice.csproj.CopyComplete
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\obj\Debug\SharpGL - Practice.exe
+D:\Code Projects\SharpGL - Practice\SharpGL - Practice\obj\Debug\SharpGL - Practice.pdb
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\bin\Debug\SharpGL - Practice.exe
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\bin\Debug\SharpGL - Practice.pdb
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\bin\Debug\SharpGL.dll
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\bin\Debug\SharpGL.SceneGraph.dll
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\bin\Debug\SharpGL.WinForms.dll
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\bin\Debug\SharpGL.pdb
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\bin\Debug\SharpGL.xml
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\bin\Debug\SharpGL.SceneGraph.pdb
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\bin\Debug\SharpGL.SceneGraph.xml
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\bin\Debug\SharpGL.WinForms.pdb
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\bin\Debug\SharpGL.WinForms.xml
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\obj\Debug\SharpGL - Practice.csprojAssemblyReference.cache
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\obj\Debug\SharpGL___Practice.Properties.Resources.resources
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\obj\Debug\SharpGL - Practice.csproj.GenerateResource.cache
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\obj\Debug\SharpGL - Practice.csproj.CoreCompileInputs.cache
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\obj\Debug\SharpGL - Practice.csproj.CopyComplete
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\obj\Debug\SharpGL - Practice.exe
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\obj\Debug\SharpGL - Practice.pdb
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\bin\Debug\GlmNet.dll
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\bin\Debug\GlmNet.xml
+D:\Code Projects\SharpGL - Practice - 3D\SharpGL - Practice\obj\Debug\SharpGL___Practice.MainForm.resources
+D:\Git\3D-Environment-OpenGL\SharpGL - Practice\bin\Debug\SharpGL - Practice.exe
+D:\Git\3D-Environment-OpenGL\SharpGL - Practice\bin\Debug\SharpGL - Practice.pdb
+D:\Git\3D-Environment-OpenGL\SharpGL - Practice\bin\Debug\GlmNet.dll
+D:\Git\3D-Environment-OpenGL\SharpGL - Practice\bin\Debug\GlmNet.xml
+D:\Git\3D-Environment-OpenGL\SharpGL - Practice\bin\Debug\SharpGL.pdb
+D:\Git\3D-Environment-OpenGL\SharpGL - Practice\bin\Debug\SharpGL.xml
+D:\Git\3D-Environment-OpenGL\SharpGL - Practice\bin\Debug\SharpGL.SceneGraph.pdb
+D:\Git\3D-Environment-OpenGL\SharpGL - Practice\bin\Debug\SharpGL.SceneGraph.xml
+D:\Git\3D-Environment-OpenGL\SharpGL - Practice\bin\Debug\SharpGL.WinForms.pdb
+D:\Git\3D-Environment-OpenGL\SharpGL - Practice\bin\Debug\SharpGL.WinForms.xml
+D:\Git\3D-Environment-OpenGL\SharpGL - Practice\obj\Debug\SharpGL - Practice.csproj.AssemblyReference.cache
+D:\Git\3D-Environment-OpenGL\SharpGL - Practice\obj\Debug\SharpGL___Practice.MainForm.resources
+D:\Git\3D-Environment-OpenGL\SharpGL - Practice\obj\Debug\SharpGL___Practice.Properties.Resources.resources
+D:\Git\3D-Environment-OpenGL\SharpGL - Practice\obj\Debug\SharpGL - Practice.csproj.GenerateResource.cache
+D:\Git\3D-Environment-OpenGL\SharpGL - Practice\obj\Debug\SharpGL - Practice.csproj.CoreCompileInputs.cache
+D:\Git\3D-Environment-OpenGL\SharpGL - Practice\obj\Debug\SharpGL - Practice.csproj.CopyComplete
+D:\Git\3D-Environment-OpenGL\SharpGL - Practice\obj\Debug\SharpGL - Practice.exe
+D:\Git\3D-Environment-OpenGL\SharpGL - Practice\obj\Debug\SharpGL - Practice.pdb
